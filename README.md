@@ -85,40 +85,6 @@ const zcy22606 = {
 
 <br/>
 
-<!-- ===================== PROJECTS ===================== -->
-<img src="https://img.shields.io/badge/-%F0%9F%9A%80%20Featured%20Projects-0f0c29?style=for-the-badge" height="32"/>
-
-<div align="center">
-  <a href="https://github.com/zcy22606/roast-my-wallet">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=zcy22606&repo=roast-my-wallet&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=06b6d4" />
-  </a>
-  <a href="https://github.com/zcy22606/codebase-context">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=zcy22606&repo=codebase-context&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=06b6d4" />
-  </a>
-  <a href="https://github.com/zcy22606/norm-config">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=zcy22606&repo=norm-config&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=06b6d4" />
-  </a>
-  <a href="https://github.com/zcy22606/movie">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=zcy22606&repo=movie&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=06b6d4" />
-  </a>
-</div>
-
-<details>
-<summary><b>📂 更多项目</b></summary>
-<br/>
-
-| 项目 | 技术栈 | 简介 |
-| --- | --- | --- |
-| [sass-ai](https://github.com/zcy22606/sass-ai) | Next.js · TS | AI SaaS 实验项目 |
-| [biuka-web](https://github.com/zcy22606/biuka-web) | Next.js · TS | Web 前端项目 |
-| [website-cms](https://github.com/zcy22606/website-cms) | Strapi · JS | 官网内容管理后台 |
-| [my-next-vercel-demo](https://github.com/zcy22606/my-next-vercel-demo) | Next.js · Vercel | Next.js 部署实践 |
-| [react-learning.](https://github.com/zcy22606/react-learning.) | React | React 学习笔记 |
-
-</details>
-
-<br/>
-
 <!-- ===================== STATS ===================== -->
 <img src="https://img.shields.io/badge/-%F0%9F%93%8A%20GitHub%20Stats-0f0c29?style=for-the-badge" height="32"/>
 
