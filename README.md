@@ -6,6 +6,9 @@ Full-stack developer. Building AI agents, developer tools, and the occasional We
 
 <br/><br/>
 
+<img src="profile/stats.svg" width="300" />&emsp;&emsp;<img src="profile/langs.svg" width="300" />
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zcy22606/zcy22606/output/github-snake-dark.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/zcy22606/zcy22606/output/github-snake.svg" />
