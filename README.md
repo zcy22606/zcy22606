@@ -1,95 +1,17 @@
-<!-- ===================== HEADER ===================== -->
-<div align="center">
+### Hi, I'm zcy22606 👋
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:6d28d9,100:06b6d4&height=220&section=header&text=zcy22606&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20%C2%B7%20AI%20Agent%20%C2%B7%20Web3&descAlignY=58&descSize=20&animation=fadeIn" />
+Full-stack developer. Building AI agents, developer tools, and the occasional Web3 toy.
+
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,tailwind,nodejs,python,vercel&perline=8" height="36" />
+
+<br/><br/>
 
 <a href="https://github.com/zcy22606">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=640&height=45&lines=%F0%9F%91%8B+Hi%2C+I'm+zcy22606;%E2%9A%A1+TypeScript+%2F+React+%2F+Next.js+%2F+Vue;%F0%9F%A4%96+Building+AI+Agents+%26+Claude+Code+Skills;%F0%9F%94%AE+Exploring+Solana+%26+Web3;%F0%9F%9A%80+Shipping+ideas+from+0+to+1" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=zcy22606&show_icons=true&count_private=true&hide_rank=true&hide_title=true&theme=transparent&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcy22606&layout=compact&langs_count=6&hide_title=true&theme=transparent&hide_border=true" />
 </a>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=zcy22606&label=PROFILE+VIEWS&color=6d28d9&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/zcy22606?label=FOLLOWERS&style=for-the-badge&color=06b6d4&labelColor=0f0c29&logo=github" />
-<img src="https://img.shields.io/badge/STATUS-BUILDING-a78bfa?style=for-the-badge&labelColor=0f0c29" />
-
-</div>
-
-<br/>
-
-<!-- ===================== TECH STACK ===================== -->
-<img src="https://img.shields.io/badge/-%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack-0f0c29?style=for-the-badge" height="32"/>
-
-<div align="center">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=ts,js,python,html,css,sass&theme=dark" />
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,vite,webpack&theme=dark" />
-
-**Backend & Infra**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,docker,vercel,cloudflare&theme=dark" />
-
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,figma,blender&theme=dark" />
-
-**AI & Web3**
-<br/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-<img src="https://img.shields.io/badge/MCP-6d28d9?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=black" />
-<img src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white" />
-
-</div>
-
-<br/>
-
-<!-- ===================== STATS ===================== -->
-<img src="https://img.shields.io/badge/-%F0%9F%93%8A%20GitHub%20Stats-0f0c29?style=for-the-badge" height="32"/>
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zcy22606&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=06b6d4&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcy22606&layout=donut&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa" />
-</div>
-
-<div align="center">
-  <img width="80%" src="https://streak-stats.demolab.com?user=zcy22606&theme=tokyonight&hide_border=true&background=0f0c29&ring=a78bfa&fire=06b6d4&currStreakLabel=a78bfa" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zcy22606&theme=tokyonight" />
-</div>
-
-<!-- ===================== TROPHIES ===================== -->
-<img src="https://img.shields.io/badge/-%F0%9F%8F%86%20Trophies-0f0c29?style=for-the-badge" height="32"/>
-
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=zcy22606&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</div>
-
-<!-- ===================== SNAKE ===================== -->
-<img src="https://img.shields.io/badge/-%F0%9F%90%8D%20Contribution%20Snake-0f0c29?style=for-the-badge" height="32"/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zcy22606/zcy22606/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zcy22606/zcy22606/output/github-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/zcy22606/zcy22606/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
-<!-- ===================== QUOTE ===================== -->
-<div align="center">
-  <br/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=false" />
-</div>
-
-<!-- ===================== FOOTER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:6d28d9,100:0f0c29&height=120&section=footer" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zcy22606/zcy22606/output/github-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/zcy22606/zcy22606/output/github-snake.svg" />
+</picture>
