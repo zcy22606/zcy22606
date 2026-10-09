@@ -17,40 +17,6 @@
 
 <br/>
 
-<!-- ===================== ABOUT ===================== -->
-<img src="https://img.shields.io/badge/-%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%20About%20Me-0f0c29?style=for-the-badge" height="32"/>
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-```ts
-const zcy22606 = {
-  role:      "Full-stack Developer",
-  focus:     ["AI Agent", "Developer Tooling", "Web3"],
-  frontend:  ["React", "Next.js", "Vue", "Tailwind"],
-  backend:   ["Node.js", "Strapi", "Python"],
-  chain:     ["Solana"],
-  aiTools:   ["Claude Code", "Cursor", "Skills / MCP"],
-  motto:     "Ship fast, iterate faster.",
-  funFact:   "做了个 AI 来毒舌吐槽你的钱包 🔥",
-};
-```
-
-</td>
-<td width="45%" valign="top">
-
-- 🔭 **在做**：AI 应用、Claude Code Skills、Web3 小工具
-- 🌱 **在学**：AI Agent 工作流 · MCP · 全栈工程化
-- 🧩 **擅长**：前端工程化、从 0 到 1 快速出原型
-- 💬 **可以聊**：React / Next.js、AI 产品、独立开发
-- 📫 **找我**：[GitHub](https://github.com/zcy22606) · 欢迎提 Issue 交流
-- ⚡ **冷知识**：GitHub 上有 70+ 个仓库，大部分在折腾
-
-</td>
-</tr>
-</table>
-
 <!-- ===================== TECH STACK ===================== -->
 <img src="https://img.shields.io/badge/-%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack-0f0c29?style=for-the-badge" height="32"/>
 
